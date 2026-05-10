@@ -46,7 +46,7 @@ export const site = {
       headline: "Made to",
       headlineEm: "misfit.",
       subheadline:
-        "A wardrobe for the in-between. Quiet rebellion, refined edges.",
+        "A wardrobe for the in-between. you don't have to fit in to own it.",
       ctaPrimary: { label: "Enter the drop", to: "/shop" },
       ctaSecondary: { label: "See the film", to: "/lookbook" },
       sideLabel: "FW / 26 — Summer Series",
