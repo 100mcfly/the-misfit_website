@@ -43,7 +43,7 @@ export const site = {
       image: hero,
       imageAlt: "Solitary figure in matte black coat in a brutalist plaza",
 //       eyebrow: "Void City",
-      headline: "Made",
+      headline: "Made   ",
       headlineEm: "for misfits.",
       subheadline:
         "A wardrobe for the in-between.",
