@@ -42,17 +42,17 @@ export const site = {
     hero: {
       image: hero,
       imageAlt: "Solitary figure in matte black coat in a brutalist plaza",
-      eyebrow: "Ø — Chapter 01 / Void City",
+//       eyebrow: "Void City",
       headline: "Made to",
       headlineEm: "misfit.",
       subheadline:
-        "A wardrobe for the in-between. Quiet rebellion, cut sharp. Worn by anyone refusing to translate themselves down.",
+        "A wardrobe for the in-between. Quiet rebellion, refined edges.",
       ctaPrimary: { label: "Enter the drop", to: "/shop" },
       ctaSecondary: { label: "See the film", to: "/lookbook" },
-      sideLabel: "FW / 26 — Ø Series",
+//       sideLabel: "FW / 26 — Ø Series",
     },
     marquee: [
-      "Ø — Chapter 01 / Void City",
+      "Void City",
       "Limited run · Numbered",
       "Shipping worldwide",
       "After Hours — coming soon",
