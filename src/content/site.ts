@@ -47,6 +47,8 @@ export const site = {
       headlineEm: "misfit.",
       subheadline:
         "A wardrobe for the in-between."
+      subheadlineEm:
+        "you don't have to fit in to own it.",
       ctaPrimary: { label: "Enter the drop", to: "/shop" },
       ctaSecondary: { label: "See the film", to: "/lookbook" },
       sideLabel: "FW / 26 — Summer Series",
@@ -97,7 +99,7 @@ export const site = {
     },
     newsletter: {
       eyebrow: "— Transmissions",
-      title: "Experience the next chapter \n before anyone else.",
+      title: "Experience the next chapter before anyone else.",
       placeholder: "your@email.com",
       button: "Subscribe →",
       note: "No noise. Drops, films, rare access. Leave anytime.",
