@@ -229,7 +229,7 @@ export const site = {
   /* -------- ABOUT -------- */
   about: {
     eyebrow: "— Manifesto",
-    title: "A wardrobe for the unaligned.",
+    title: "A wardrobe for the in-between. \nYou don't have to fit in to own it.",
     manifesto: [
       "We are not for everyone. That is the point.",
       "We design slowly, in small numbers, for the people who already know what they want.",
