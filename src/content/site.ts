@@ -49,7 +49,7 @@ export const site = {
         "A wardrobe for the in-between. Quiet rebellion, refined edges.",
       ctaPrimary: { label: "Enter the drop", to: "/shop" },
       ctaSecondary: { label: "See the film", to: "/lookbook" },
-//       sideLabel: "FW / 26 — Ø Series",
+      sideLabel: "FW / 26 — Summer Series",
     },
     marquee: [
       "Void City",
@@ -65,20 +65,20 @@ export const site = {
     },
     philosophy: {
       eyebrow: "— Philosophy",
-      symbol: "Ø",
+//       symbol: "Ø",
       line1: "We don't dress the crowd.",
       line1Muted: " We dress the one who left it.",
-      line2: "Soft edges, hard convictions. A uniform for the unaligned —",
+      line2: "Soft edges, hard convictions. A uniform for the unaligned -",
       line2Muted: " minimal in form, loud in presence.",
     },
     capsule: {
-      eyebrow: "— Chapter 02 / Capsule",
+      eyebrow: "— Capsule",
       title: "After Hours",
       image: editorial1,
       imageAlt: "Two figures in a brutalist corridor",
       portrait: look2,
       portraitAlt: "Late night editorial",
-      copy: "Tailoring softened by midnight. A small wardrobe of pieces meant for the hours between things — last train, first light, no audience.",
+      copy: "Tailoring softened by midnight. Pieces for the hours in between - last train, first light, no audience.",
     },
     lookbookTeaser: {
       image: look1,
@@ -97,7 +97,7 @@ export const site = {
     },
     newsletter: {
       eyebrow: "— Transmissions",
-      title: "The next chapter, before anyone else.",
+      title: "Experience the next chapter \ before anyone else.",
       placeholder: "your@email.com",
       button: "Subscribe →",
       note: "No noise. Drops, films, rare access. Leave anytime.",
