@@ -229,14 +229,14 @@ export const site = {
   /* -------- ABOUT -------- */
   about: {
     eyebrow: "— Manifesto",
-    title: "A wardrobe for the in-between. \nYou don't have to fit in to own it.",
+    title: "A wardrobe for the in-between.",
     manifesto: [
-      "We are not for everyone. That is the point.",
+      "You don't have to fit in to own it.",
       "We design slowly, in small numbers, for the people who already know what they want.",
-      "We believe restraint is the loudest thing you can wear.",
-      "We mistrust trend. We trust the cut, the weight, the way a fabric ages on a body.",
+      "Restraint is one of the loudest things you can wear.",
+      "More than trends, we trust the cut, the weight, the way a fabric ages on a body.",
       "We make clothes for the in-between — between rebellion and elegance, between the city and the room you go home to.",
-      "If it doesn't last, we won't make it. If it doesn't mean anything, we won't say it.",
+      "built with meaning, released with intention. If it doesn't mean anything, we won't say it.",
     ],
     portrait: editorial2,
     portraitAlt: "Portrait",
