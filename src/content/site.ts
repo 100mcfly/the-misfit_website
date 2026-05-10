@@ -241,10 +241,13 @@ export const site = {
     portrait: editorial2,
     portraitAlt: "Portrait",
     studio: [
-      "The Misfit was founded in 2015 from a personal experience — feeling sidelined to eventually embracing the power of not fitting in.\
-      From exclusion to self-definition - outsider to original.",
-      "Each release is a study of an idea, a feeling, a kind of person. Limited runs, numbered, made by people we know, in places we've been.",
-      "Fashion is identity made visible. We design for the people who refuse to translate themselves down.",
+      "Founded from personal experience, THE MISFIT tells a story of evolution - from feeling sidelined to \
+      embracing the power of standing out.",
+      "From exclusion to self-definition. \n
+       From outsider to original.",
+      "Each release is an expression of an idea, a feeling, a kind of person.\n
+      Limited runs. Numbered pieces. Made by people we know, in places we’ve been.",
+      "Fashion is identity made visible. \nWe design for the people who refuse to translate themselves down.",
     ],
     values: [
       { k: "01", t: "Slow", d: "Limited runs. No restocks. Every piece numbered." },
