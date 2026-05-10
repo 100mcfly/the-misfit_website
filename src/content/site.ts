@@ -229,7 +229,7 @@ export const site = {
   /* -------- ABOUT -------- */
   about: {
     eyebrow: "— Manifesto",
-    title: "A wardrobe for the\nin-between.",
+    title: "A wardrobe for the\nIn-between.",
     manifesto: [
       "You don't have to fit in to own it.",
       "We design slowly, in small numbers, for the people who already know what they want.",
@@ -241,7 +241,8 @@ export const site = {
     portrait: editorial2,
     portraitAlt: "Portrait",
     studio: [
-      "The Misfit was founded in 2024 between Berlin and Osaka — a small studio working in chapters, not seasons.",
+      "The Misfit was founded in 2015 from a personal experience — feeling sidelined to eventually embracing the power of not fitting in.\
+      From exclusion to self-definition - outsider to original.",
       "Each release is a study of an idea, a feeling, a kind of person. Limited runs, numbered, made by people we know, in places we've been.",
       "Fashion is identity made visible. We design for the people who refuse to translate themselves down.",
     ],
