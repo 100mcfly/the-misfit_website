@@ -43,8 +43,8 @@ export const site = {
       image: hero,
       imageAlt: "Solitary figure in matte black coat in a brutalist plaza",
 //       eyebrow: "Void City",
-      headline: "Made   ",
-      headlineEm: "for misfits.",
+      headline: "Made to",
+      headlineEm: "fit, not fit in.",
       subheadline:
         "A wardrobe for the in-between.",
       ctaPrimary: { label: "Enter the drop", to: "/shop" },
