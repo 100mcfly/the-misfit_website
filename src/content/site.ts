@@ -259,9 +259,9 @@ export const site = {
     eyebrow: "— Reach out",
     title: "Contact",
     blocks: [
-      { label: "Studio", body: "Linienstrasse 144\n10115 Berlin, DE" },
-      { label: "General", body: "studio@themisfit.co" },
-      { label: "Press", body: "press@themisfit.co" },
+      { label: "Studio", body: "Adeola Odeku street\nVictoria island Lagos, NG" },
+      { label: "General", body: "studio@houseofodean.com" },
+      { label: "Press", body: "press@houseofodean.com" },
     ],
     social: { label: "Follow", items: [
       { label: "Instagram ↗", href: "#" },
