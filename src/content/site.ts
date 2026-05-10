@@ -282,7 +282,7 @@ export const site = {
 
   /* -------- FOOTER -------- */
   footer: {
-    blurb: "The Misfit — built for the outsiders, the creators, the quiet disruptors.",
+    blurb: "for the quiet disruptors.",
     columns: [
       { title: "Shop", items: [
         { label: "All", to: "/shop" },
