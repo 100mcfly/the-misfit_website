@@ -259,7 +259,7 @@ export const site = {
     eyebrow: "— Reach out",
     title: "Contact",
     blocks: [
-      { label: "Studio", body: "Adeola Odeku street\nVictoria island Lagos, NG" },
+      { label: "Studio", body: "Adeola Odeku street\nVictoria island, Lagos" },
       { label: "General", body: "studio@houseofodean.com" },
       { label: "Press", body: "press@houseofodean.com" },
     ],
