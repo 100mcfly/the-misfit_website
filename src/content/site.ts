@@ -228,7 +228,7 @@ export const site = {
 
   /* -------- ABOUT -------- */
   about: {
-    eyebrow: "— Studio Ø / Manifesto",
+    eyebrow: "— Manifesto",
     title: "A wardrobe for the unaligned.",
     manifesto: [
       "We are not for everyone. That is the point.",
