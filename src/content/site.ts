@@ -229,7 +229,7 @@ export const site = {
   /* -------- ABOUT -------- */
   about: {
     eyebrow: "— Manifesto",
-    title: "A wardrobe for the\nIn-between.",
+    title: "A wardrobe for the in-between.",
     manifesto: [
       "You don't have to fit in to own it.",
       "We design slowly, in small numbers, for the people who already know what they want.",
@@ -243,8 +243,8 @@ export const site = {
     studio: [
       "Founded from personal experience, THE MISFIT tells a story of evolution - from feeling sidelined to \
       embracing the power of standing out.",
-      "From exclusion to self-definition. \n
-       From outsider to original.",
+      "From exclusion to self-definition.",
+       "From outsider to original.",
       "Each release is an expression of an idea, a feeling, a kind of person.\n
       Limited runs. Numbered pieces. Made by people we know, in places we’ve been.",
       "Fashion is identity made visible. \nWe design for the people who refuse to translate themselves down.",
