@@ -85,7 +85,8 @@ export const site = {
       imageAlt: "Look 01 — bone hoodie",
       eyebrow: "— Lookbook FW26",
       title: "No Frame",
-      copy: "Portraits of creatives in the rooms they actually live in. No styling tricks. No grid. Just people, and what they choose to wear.",
+      copy: "Portraits of creatives in the rooms they actually live in. No styling tricks. No grid. Just people, \
+      and what they choose to wear.",
       cta: { label: "Step inside", to: "/lookbook" },
     },
     portrait: {
@@ -125,21 +126,26 @@ export const site = {
   product: {
     sizes: ["XS", "S", "M", "L", "XL"],
     description:
-      "A study in weight and restraint. Cut from heavyweight loopback, washed soft, and built to keep its shape long after the season ends.",
+      "A study in weight and restraint. Cut from heavyweight loopback, washed soft, and built to keep its shape long \
+      after the season ends.",
     addToBag: "Add to bag",
     wishlist: "Save to wishlist",
     sizeGuide: "Size guide",
     accordion: [
-      { t: "Composition", d: "100% Japanese loopback cotton, 480 GSM. Garment dyed in small batches. Slight irregularities are intended." },
-      { t: "Fit & Sizing", d: "Boxy, slightly cropped. Take your usual size, or one down for a closer fit. Model is 184cm in size M." },
+      { t: "Composition", d: "100% Japanese loopback cotton, 480 GSM. Garment dyed in small batches. \
+          Slight irregularities are intended." },
+      { t: "Fit & Sizing", d: "Boxy, slightly cropped. Take your usual size, or one down for a closer fit. \
+          Model is 184cm in size M." },
       { t: "Care", d: "Wash cold inside out. Tumble dry low. Iron on reverse. Made to soften, not fade." },
       { t: "Made in", d: "Cut and sewn in Porto, Portugal, in a family-owned atelier we visit twice a year." },
     ],
     styling: {
       eyebrow: "— Styling notes",
       headline: "Worn loose over a tailored trouser, or layered under the Chrome bomber.",
-      copy1: "The piece is intentionally undersold. It rewards the hand that doesn't try too hard — clean white sneaker, washed denim, a coat that's seen a few winters.",
-      copy2: "Pair with the After Hours tailored set for evening, or alone on bare skin for the kind of summer that doesn't ask permission.",
+      copy1: "The piece is intentionally undersold. It rewards the hand that doesn't try too hard — clean \
+      white sneaker, washed denim, a coat that's seen a few winters.",
+      copy2: "Pair with the After Hours tailored set for evening, or alone on bare skin for the kind of summer \
+      that doesn't ask permission.",
     },
     related: { eyebrow: "— Complete the look", title: "Worn with", link: { label: "See more →", to: "/shop" } },
   },
@@ -166,7 +172,8 @@ export const site = {
       imageAlt: "Lookbook cover",
       eyebrow: "— Lookbook FW / 26 · Ø",
       title: "No Frame",
-      copy: "Photographed across abandoned plazas and unfinished cities — a study of those who refuse the lens, and reshape it.",
+      copy: "Photographed across abandoned plazas and unfinished cities — a study of those who refuse the lens, \
+      and reshape it.",
       scroll: "Scroll ↓",
     },
     note: {
@@ -207,16 +214,20 @@ export const site = {
       eyebrow: "— Campaign concepts",
       title: "Stories in motion",
       items: [
-        { img: hero, tag: "Fashion film", title: "Void City — 60s", body: "A solitary figure walks an empty plaza at blue hour. No dialogue. One outfit. One cut." },
-        { img: editorial1, tag: "TikTok", title: "/ Outfit, Unframed", body: "Creators film their outfit in a single static shot — no cuts, no voiceover. The frame moves, they don't." },
-        { img: look2, tag: "Instagram", title: "After Hours — Carousel 01", body: "Ten frames. Same outfit, ten cities, ten 3am hours. Captioned only with timestamps." },
-        { img: editorial2, tag: "Launch", title: "No Frame — Portrait Series", body: "Nine creatives photographed in their own rooms, wearing one piece they chose themselves." },
+        { img: hero, tag: "Fashion film", title: "Void City — 60s", body: "A solitary figure walks an empty plaza \
+            at blue hour. No dialogue. One outfit. One cut." },
+        { img: editorial1, tag: "TikTok", title: "/ Outfit, Unframed", body: "Creators film their outfit in a single \
+            static shot — no cuts, no voiceover. The frame moves, they don't." },
+        { img: look2, tag: "Instagram", title: "After Hours — Carousel 01", body: "Ten frames. \
+            Same outfit, ten cities, ten 3am hours. Captioned only with timestamps." },
+        { img: editorial2, tag: "Launch", title: "No Frame — Portrait Series", body: "Nine creatives photographed \
+            in their own rooms, wearing one piece they chose themselves." },
       ],
     },
     slogans: {
       eyebrow: "— Lines we live by",
       items: [
-        "Made to misfit.",
+        "Made to fit, not fit in.",
         "Quietly, on purpose.",
         "Dressed for the in-between.",
         "Less to prove.",
@@ -235,14 +246,15 @@ export const site = {
       "We design slowly, in small numbers, for the people who already know what they want.",
       "Restraint is one of the loudest things you can wear.",
       "More than trends, we trust the cut, the weight, the way a fabric ages on a body.",
-      "We make clothes for the in-between — between rebellion and elegance, between the city and the room you go home to.",
+      "We make clothes for the in-between — between rebellion and elegance, between the city and \
+      the room you go home to.",
       "built with meaning, released with intention. If it doesn't mean anything, we won't say it.",
     ],
     portrait: editorial2,
     portraitAlt: "Portrait",
     studio: [
-      "Founded from personal experience, THE MISFIT tells a story of evolution - from feeling sidelined to \
-      embracing the power of standing out.\nFrom exclusion to self-definition. Outsider to original.",
+      "Rooted in personal experience, THE MISFIT tells a story of evolution - from feeling sidelined to \
+      embracing the power of standing out\nFrom exclusion to self-definition. Outsider to original.",
       "Each release is an expression of an idea, a feeling, a kind of person. \
       Limited runs. Numbered pieces. Made by people we know, in places we’ve been.",
       "Fashion is identity made visible. We design for the people who refuse to translate themselves down.",
