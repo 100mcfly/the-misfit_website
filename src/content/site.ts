@@ -242,8 +242,7 @@ export const site = {
     portraitAlt: "Portrait",
     studio: [
       "Founded from personal experience, THE MISFIT tells a story of evolution - from feeling sidelined to \
-      embracing the power of standing out.",
-      "From exclusion to self-definition. Outsider to original.",
+      embracing the power of standing out.\nFrom exclusion to self-definition. Outsider to original.",
       "Each release is an expression of an idea, a feeling, a kind of person. \
       Limited runs. Numbered pieces. Made by people we know, in places we’ve been.",
       "Fashion is identity made visible. We design for the people who refuse to translate themselves down.",
