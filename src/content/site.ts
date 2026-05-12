@@ -245,9 +245,9 @@ export const site = {
       embracing the power of standing out.",
       "From exclusion to self-definition.",
        "From outsider to original.",
-      "Each release is an expression of an idea, a feeling, a kind of person.\n
+      "Each release is an expression of an idea, a feeling, a kind of person. \
       Limited runs. Numbered pieces. Made by people we know, in places we’ve been.",
-      "Fashion is identity made visible. \nWe design for the people who refuse to translate themselves down.",
+      "Fashion is identity made visible. We design for the people who refuse to translate themselves down.",
     ],
     values: [
       { k: "01", t: "Slow", d: "Limited runs. No restocks. Every piece numbered." },
